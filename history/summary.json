@@ -4,19 +4,19 @@
     "url": "https://matrix.b0t.at/health",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.b0t.at.ico",
     "slug": "matrix-synapse",
-    "status": "down",
-    "uptime": "94.40%",
-    "uptimeDay": "92.84%",
-    "uptimeWeek": "94.40%",
-    "uptimeMonth": "94.40%",
-    "uptimeYear": "94.40%",
-    "time": 4737,
-    "timeDay": 6722,
-    "timeWeek": 4737,
-    "timeMonth": 4737,
-    "timeYear": 4737,
+    "status": "up",
+    "uptime": "91.85%",
+    "uptimeDay": "89.28%",
+    "uptimeWeek": "91.85%",
+    "uptimeMonth": "91.85%",
+    "uptimeYear": "91.85%",
+    "time": 4294,
+    "timeDay": 5704,
+    "timeWeek": 4294,
+    "timeMonth": 4294,
+    "timeYear": 4294,
     "dailyMinutesDown": {
-      "2023-03-16": 103
+      "2023-03-16": 154
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/b0t.at.ico",
     "slug": "b0t-at",
-    "status": "down",
-    "uptime": "94.59%",
-    "uptimeDay": "93.08%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "94.59%",
-    "time": 6025,
-    "timeDay": 8577,
-    "timeWeek": 6025,
-    "timeMonth": 6025,
-    "timeYear": 6025,
+    "status": "up",
+    "uptime": "92.02%",
+    "uptimeDay": "89.50%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "92.02%",
+    "time": 7885,
+    "timeDay": 10671,
+    "timeWeek": 7885,
+    "timeMonth": 7885,
+    "timeYear": 7885,
     "dailyMinutesDown": {
-      "2023-03-16": 100
+      "2023-03-16": 151
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "94.81%",
-    "uptimeDay": "93.36%",
-    "uptimeWeek": "94.81%",
-    "uptimeMonth": "94.81%",
-    "uptimeYear": "94.81%",
+    "uptime": "92.15%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "92.15%",
     "time": 3379,
     "timeDay": 4437,
     "timeWeek": 3379,
     "timeMonth": 3379,
     "timeYear": 3379,
     "dailyMinutesDown": {
-      "2023-03-16": 96
+      "2023-03-16": 149
     }
   }
 ]
