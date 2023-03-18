@@ -5,20 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.b0t.at.ico",
     "slug": "matrix-synapse",
     "status": "up",
-    "uptime": "95.12%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "95.12%",
-    "time": 3109,
-    "timeDay": 670,
-    "timeWeek": 3109,
-    "timeMonth": 3109,
-    "timeYear": 3109,
-    "dailyMinutesDown": {
-      "2023-03-17": 20,
-      "2023-03-16": 179
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2908,
+    "timeDay": 746,
+    "timeWeek": 2908,
+    "timeMonth": 2908,
+    "timeYear": 2908,
+    "dailyMinutesDown": {}
   },
   {
     "name": "b0t.at",
@@ -26,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/b0t.at.ico",
     "slug": "b0t-at",
     "status": "up",
-    "uptime": "96.31%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "96.31%",
-    "uptimeYear": "96.31%",
-    "time": 6993,
-    "timeDay": 751,
-    "timeWeek": 6993,
-    "timeMonth": 6993,
-    "timeYear": 6993,
-    "dailyMinutesDown": {
-      "2023-03-16": 151
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 6311,
+    "timeDay": 856,
+    "timeWeek": 6311,
+    "timeMonth": 6311,
+    "timeYear": 6311,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mastodon",
@@ -46,19 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "87.53%",
-    "uptimeDay": "77.30%",
-    "uptimeWeek": "87.53%",
-    "uptimeMonth": "87.53%",
-    "uptimeYear": "87.53%",
-    "time": 2391,
-    "timeDay": 890,
-    "timeWeek": 2391,
-    "timeMonth": 2391,
-    "timeYear": 2391,
-    "dailyMinutesDown": {
-      "2023-03-17": 327,
-      "2023-03-16": 184
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2282,
+    "timeDay": 999,
+    "timeWeek": 2282,
+    "timeMonth": 2282,
+    "timeYear": 2282,
+    "dailyMinutesDown": {}
   }
 ]
