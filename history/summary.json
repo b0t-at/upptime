@@ -40,17 +40,19 @@
     "url": "https://social.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2282,
-    "timeDay": 999,
-    "timeWeek": 2282,
-    "timeMonth": 2282,
-    "timeYear": 2282,
-    "dailyMinutesDown": {}
+    "time": 2163,
+    "timeDay": 1023,
+    "timeWeek": 2163,
+    "timeMonth": 2163,
+    "timeYear": 2163,
+    "dailyMinutesDown": {
+      "2023-03-18": 0
+    }
   }
 ]
