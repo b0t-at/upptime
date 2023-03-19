@@ -41,18 +41,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "81.99%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "95.65%",
-    "uptimeYear": "95.65%",
+    "uptime": "96.13%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "96.13%",
     "time": 1976,
-    "timeDay": 856,
+    "timeDay": 857,
     "timeWeek": 1976,
     "timeMonth": 1976,
     "timeYear": 1976,
     "dailyMinutesDown": {
       "2023-03-18": 259
     }
+  },
+  {
+    "name": "Privatebin",
+    "url": "https://bin.b0t.at",
+    "icon": "https://icons.duckduckgo.com/ip3/bin.b0t.at.ico",
+    "slug": "privatebin",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1113,
+    "timeDay": 1113,
+    "timeWeek": 1113,
+    "timeMonth": 1113,
+    "timeYear": 1113,
+    "dailyMinutesDown": {}
   }
 ]
