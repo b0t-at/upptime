@@ -9,6 +9,8 @@ sites:
     url: https://b0t.at
   - name: Mastodon
     url: https://social.b0t.at
+  - name: Privatebin
+    url: https://bin.b0t.at
 
 assignees: # Users to assign downtime issues (optional)
   - a-mnich
