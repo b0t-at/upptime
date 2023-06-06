@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1107,
-    "timeDay": 758,
-    "timeWeek": 714,
-    "timeMonth": 795,
-    "timeYear": 1107,
+    "time": 1101,
+    "timeDay": 552,
+    "timeWeek": 705,
+    "timeMonth": 789,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2023-03-28": 129
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1409,
-    "timeDay": 1076,
-    "timeWeek": 915,
-    "timeMonth": 883,
-    "timeYear": 1409,
+    "time": 1402,
+    "timeDay": 766,
+    "timeWeek": 918,
+    "timeMonth": 886,
+    "timeYear": 1402,
     "dailyMinutesDown": {
       "2023-03-28": 129
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 1361,
-    "timeDay": 2458,
-    "timeWeek": 1929,
-    "timeMonth": 1469,
-    "timeYear": 1361,
+    "time": 1360,
+    "timeDay": 1292,
+    "timeWeek": 1968,
+    "timeMonth": 1483,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2023-04-27": 319,
       "2023-04-26": 93,
@@ -68,16 +68,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bin.b0t.at.ico",
     "slug": "privatebin",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 1087,
-    "timeDay": 1219,
-    "timeWeek": 1176,
+    "uptimeYear": "99.89%",
+    "time": 1084,
+    "timeDay": 853,
+    "timeWeek": 1105,
     "timeMonth": 1045,
-    "timeYear": 1087,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2023-03-28": 129
     }
