@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1116,
-    "timeDay": 570,
-    "timeWeek": 1091,
+    "time": 1112,
+    "timeDay": 723,
+    "timeWeek": 1075,
     "timeMonth": 909,
-    "timeYear": 1116,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2023-03-28": 129
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1356,
-    "timeDay": 663,
-    "timeWeek": 768,
-    "timeMonth": 850,
-    "timeYear": 1356,
+    "time": 1350,
+    "timeDay": 766,
+    "timeWeek": 787,
+    "timeMonth": 854,
+    "timeYear": 1350,
     "dailyMinutesDown": {
       "2023-03-28": 129
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.47%",
-    "time": 1354,
-    "timeDay": 856,
-    "timeWeek": 1378,
-    "timeMonth": 1443,
-    "timeYear": 1354,
+    "uptimeYear": "99.48%",
+    "time": 1351,
+    "timeDay": 1068,
+    "timeWeek": 1415,
+    "timeMonth": 1441,
+    "timeYear": 1351,
     "dailyMinutesDown": {
       "2023-04-27": 319,
       "2023-04-26": 93,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1089,
-    "timeDay": 836,
-    "timeWeek": 1171,
-    "timeMonth": 1062,
-    "timeYear": 1089,
+    "time": 1091,
+    "timeDay": 1255,
+    "timeWeek": 1277,
+    "timeMonth": 1078,
+    "timeYear": 1091,
     "dailyMinutesDown": {
       "2023-03-28": 129
     }
