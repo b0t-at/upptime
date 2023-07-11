@@ -21,9 +21,9 @@ status-website:
   cname: status.b0t.at
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: DaMnGoodIT Upptime
+  name: b0t.at Upptime
   introTitle: "Uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is the DaMnGoodIT / B0t.at Uptime Monitor
+  introMessage: This is the b0t.at Uptime Monitor
   navbar:
     - title: Status
       href: /
