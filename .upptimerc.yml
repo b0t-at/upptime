@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Matrix - Synapse
     url: https://matrix.b0t.at/health
+  - name: Matrix - Element
+    url: https://element.b0t.at
   - name: b0t.at
     url: https://b0t.at
   - name: Mastodon
