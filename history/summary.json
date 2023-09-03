@@ -42,9 +42,9 @@
     "url": "https://b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/b0t.at.ico",
     "slug": "b0t-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.62%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -54,6 +54,7 @@
     "timeMonth": 1159,
     "timeYear": 1196,
     "dailyMinutesDown": {
+      "2023-09-03": 0,
       "2023-09-02": 20
     }
   },
