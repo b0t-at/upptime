@@ -62,9 +62,9 @@
     "url": "https://social.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 1025,
     "timeMonth": 1184,
     "timeYear": 1264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-03": 0
+    }
   },
   {
     "name": "Privatebin",
