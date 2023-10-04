@@ -24,18 +24,20 @@
     "url": "https://element.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/element.b0t.at.ico",
     "slug": "matrix-element",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1011,
-    "timeDay": 728,
-    "timeWeek": 1419,
-    "timeMonth": 1079,
-    "timeYear": 1011,
-    "dailyMinutesDown": {}
+    "time": 1007,
+    "timeDay": 761,
+    "timeWeek": 1341,
+    "timeMonth": 1070,
+    "timeYear": 1007,
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   },
   {
     "name": "b0t.at",
