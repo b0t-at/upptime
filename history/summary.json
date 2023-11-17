@@ -4,19 +4,19 @@
     "url": "https://matrix.b0t.at/health",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.b0t.at.ico",
     "slug": "matrix-synapse",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 871,
-    "timeDay": 536,
-    "timeWeek": 831,
-    "timeMonth": 693,
+    "timeDay": 647,
+    "timeWeek": 823,
+    "timeMonth": 695,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2023-11-17": 0
+      "2023-11-17": 11
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "matrix-element",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1053,
     "timeDay": 649,
@@ -36,7 +36,7 @@
     "timeMonth": 1090,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2023-11-17": 11
+      "2023-11-17": 21
     }
   },
   {
