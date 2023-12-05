@@ -46,19 +46,19 @@
     "url": "https://b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/b0t.at.ico",
     "slug": "b0t-at",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 758,
-    "timeWeek": 886,
-    "timeMonth": 777,
-    "timeYear": 1071,
+    "time": 1069,
+    "timeDay": 689,
+    "timeWeek": 853,
+    "timeMonth": 772,
+    "timeYear": 1069,
     "dailyMinutesDown": {
-      "2023-12-05": 0
+      "2023-12-05": 10
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://social.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1236,
-    "timeDay": 763,
-    "timeWeek": 1011,
-    "timeMonth": 1249,
-    "timeYear": 1236,
+    "time": 1235,
+    "timeDay": 772,
+    "timeWeek": 982,
+    "timeMonth": 1234,
+    "timeYear": 1235,
     "dailyMinutesDown": {
-      "2023-12-05": 0
+      "2023-12-05": 10
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "https://bin.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/bin.b0t.at.ico",
     "slug": "privatebin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1080,
-    "timeDay": 993,
-    "timeWeek": 952,
-    "timeMonth": 1073,
-    "timeYear": 1080,
+    "time": 1079,
+    "timeDay": 863,
+    "timeWeek": 924,
+    "timeMonth": 1062,
+    "timeYear": 1079,
     "dailyMinutesDown": {
-      "2023-12-05": 0
+      "2023-12-05": 10
     }
   }
 ]
