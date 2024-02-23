@@ -51,9 +51,9 @@
     "url": "https://b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/b0t.at.ico",
     "slug": "b0t-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -63,6 +63,7 @@
     "timeMonth": 797,
     "timeYear": 1008,
     "dailyMinutesDown": {
+      "2024-02-23": 0,
       "2024-01-02": 4,
       "2023-12-05": 10
     }
@@ -72,9 +73,9 @@
     "url": "https://social.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,6 +85,7 @@
     "timeMonth": 967,
     "timeYear": 1193,
     "dailyMinutesDown": {
+      "2024-02-23": 0,
       "2024-01-02": 4,
       "2023-12-05": 10
     }
@@ -93,9 +95,9 @@
     "url": "https://bin.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/bin.b0t.at.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +107,7 @@
     "timeMonth": 968,
     "timeYear": 1044,
     "dailyMinutesDown": {
+      "2024-02-23": 0,
       "2024-01-02": 4,
       "2023-12-05": 10
     }
