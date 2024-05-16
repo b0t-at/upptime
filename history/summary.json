@@ -4,9 +4,9 @@
     "url": "https://matrix.b0t.at/health",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.b0t.at.ico",
     "slug": "matrix-synapse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 572,
     "timeMonth": 833,
     "timeYear": 755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "Matrix - Element",
