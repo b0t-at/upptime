@@ -4,10 +4,10 @@
     "url": "https://matrix.b0t.at/health",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.b0t.at.ico",
     "slug": "matrix-synapse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 816,
@@ -16,6 +16,7 @@
     "timeMonth": 624,
     "timeYear": 748,
     "dailyMinutesDown": {
+      "2024-06-07": 1,
       "2024-05-16": 5
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://element.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/element.b0t.at.ico",
     "slug": "matrix-element",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +36,18 @@
     "timeWeek": 766,
     "timeMonth": 636,
     "timeYear": 894,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-07": 0
+    }
   },
   {
     "name": "b0t.at",
     "url": "https://b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/b0t.at.ico",
     "slug": "b0t-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +56,18 @@
     "timeWeek": 669,
     "timeMonth": 707,
     "timeYear": 845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-07": 0
+    }
   },
   {
     "name": "Mastodon",
     "url": "https://social.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +76,18 @@
     "timeWeek": 665,
     "timeMonth": 692,
     "timeYear": 1042,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-07": 0
+    }
   },
   {
     "name": "Privatebin",
     "url": "https://bin.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/bin.b0t.at.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +96,8 @@
     "timeWeek": 681,
     "timeMonth": 779,
     "timeYear": 969,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-07": 0
+    }
   }
 ]
