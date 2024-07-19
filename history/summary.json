@@ -25,9 +25,9 @@
     "url": "https://element.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/element.b0t.at.ico",
     "slug": "matrix-element",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 721,
     "timeYear": 869,
     "dailyMinutesDown": {
+      "2024-07-19": 0,
       "2024-06-07": 11
     }
   },
@@ -45,9 +46,9 @@
     "url": "https://b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/b0t.at.ico",
     "slug": "b0t-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +58,7 @@
     "timeMonth": 785,
     "timeYear": 838,
     "dailyMinutesDown": {
+      "2024-07-19": 0,
       "2024-06-07": 10
     }
   },
@@ -65,9 +67,9 @@
     "url": "https://social.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +79,7 @@
     "timeMonth": 740,
     "timeYear": 989,
     "dailyMinutesDown": {
+      "2024-07-19": 0,
       "2024-06-07": 10
     }
   },
@@ -85,18 +88,19 @@
     "url": "https://bin.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/bin.b0t.at.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 962,
+    "time": 963,
     "timeDay": 693,
     "timeWeek": 660,
     "timeMonth": 694,
     "timeYear": 921,
     "dailyMinutesDown": {
+      "2024-07-19": 0,
       "2024-06-07": 10
     }
   }
