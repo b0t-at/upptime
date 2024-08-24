@@ -1,7 +1,7 @@
 url: https://matrix.b0t.at/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-24T23:09:09.491Z
+status: up
+code: 200
+responseTime: 5184
+lastUpdated: 2024-08-24T23:20:47.804Z
 startTime: 2023-03-14T22:13:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
