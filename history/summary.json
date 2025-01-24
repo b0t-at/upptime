@@ -4,19 +4,19 @@
     "url": "https://matrix.b0t.at/health",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.b0t.at.ico",
     "slug": "matrix-synapse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 873,
+    "time": 874,
     "timeDay": 865,
     "timeWeek": 1074,
     "timeMonth": 1056,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-01-24": 6
+      "2025-01-24": 7
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://element.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/element.b0t.at.ico",
     "slug": "matrix-element",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 899,
@@ -36,7 +36,7 @@
     "timeMonth": 941,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2025-01-24": 5
+      "2025-01-24": 6
     }
   },
   {
@@ -44,9 +44,9 @@
     "url": "https://b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/b0t.at.ico",
     "slug": "b0t-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 685,
     "timeMonth": 763,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-24": 0
+    }
   },
   {
     "name": "Mastodon",
