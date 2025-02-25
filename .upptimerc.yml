@@ -5,14 +5,28 @@ repo: upptime # The name of this repository
 sites:
   - name: Matrix - Synapse
     url: https://matrix.b0t.at/health
-  - name: Matrix - Element
+  - name: Matrix - Element Web
     url: https://element.b0t.at
+  - name: Matrix - Element Call
+    url: https://call.b0t.at
   - name: b0t.at
     url: https://b0t.at
   - name: Mastodon
     url: https://social.b0t.at
   - name: Privatebin
     url: https://bin.b0t.at
+  - name: MailU
+    url: https://mail.b0t.at
+  - name: ExcaliDraw
+    url: https://draw.b0t.at
+  - name: Vaultwarden
+    url: https://vault.b0t.at
+  - name: iWantACat
+    url: https://iwanta.cat
+  - name: MyApps
+    url: https://apps.b0t.at
+  - name: Open-WebUI
+    url: https://ai.b0t.at
 
 #assignees: # Users to assign downtime issues (optional)
 
