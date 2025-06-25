@@ -15,7 +15,7 @@ sites:
     url: https://social.b0t.at
   - name: Privatebin
     url: https://bin.b0t.at
-  - name: MailU
+  - name: MailU - Web Frontend
     url: https://mail.b0t.at
   - name: ExcaliDraw
     url: https://draw.b0t.at
