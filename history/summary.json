@@ -112,9 +112,9 @@
     "url": "https://mail.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/mail.b0t.at.ico",
     "slug": "mail-u-web-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -124,6 +124,7 @@
     "timeMonth": 500,
     "timeYear": 493,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-07-25": 22
     }
   },
