@@ -19,8 +19,6 @@ sites:
     url: https://mail.b0t.at
   - name: ExcaliDraw
     url: https://draw.b0t.at
-  - name: Vaultwarden
-    url: https://vault.b0t.at
   - name: iWantACat
     url: https://iwanta.cat
   - name: MyApps
