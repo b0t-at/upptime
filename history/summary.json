@@ -4,28 +4,30 @@
     "url": "https://matrix.b0t.at/health",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.b0t.at.ico",
     "slug": "matrix-synapse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 966,
+    "time": 964,
     "timeDay": 724,
     "timeWeek": 653,
     "timeMonth": 791,
     "timeYear": 883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-22": 2
+    }
   },
   {
     "name": "Matrix - Element Web",
     "url": "https://element.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/element.b0t.at.ico",
     "slug": "matrix-element-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 781,
@@ -33,7 +35,9 @@
     "timeWeek": 684,
     "timeMonth": 710,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-22": 2
+    }
   },
   {
     "name": "Matrix - Element Call",
@@ -60,10 +64,10 @@
     "url": "https://b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/b0t.at.ico",
     "slug": "b0t-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 784,
@@ -71,43 +75,49 @@
     "timeWeek": 623,
     "timeMonth": 537,
     "timeYear": 632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-22": 1
+    }
   },
   {
     "name": "Mastodon",
     "url": "https://social.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/social.b0t.at.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1018,
+    "time": 1017,
     "timeDay": 715,
     "timeWeek": 648,
     "timeMonth": 707,
     "timeYear": 999,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-22": 1
+    }
   },
   {
     "name": "Privatebin",
     "url": "https://bin.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/bin.b0t.at.ico",
     "slug": "privatebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 865,
+    "time": 866,
     "timeDay": 645,
     "timeWeek": 600,
     "timeMonth": 649,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-22": 1
+    }
   },
   {
     "name": "MailU - Web Frontend",
@@ -115,11 +125,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.b0t.at.ico",
     "slug": "mail-u-web-frontend",
     "status": "up",
-    "uptime": "82.50%",
+    "uptime": "82.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "90.13%",
-    "uptimeYear": "82.50%",
+    "uptimeYear": "82.56%",
     "time": 522,
     "timeDay": 547,
     "timeWeek": 473,
@@ -178,10 +188,10 @@
     "url": "https://draw.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/draw.b0t.at.ico",
     "slug": "excali-draw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
@@ -189,7 +199,9 @@
     "timeWeek": 948,
     "timeMonth": 635,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-22": 1
+    }
   },
   {
     "name": "iWantACat",
@@ -214,10 +226,10 @@
     "url": "https://apps.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/apps.b0t.at.ico",
     "slug": "my-apps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 562,
@@ -225,16 +237,18 @@
     "timeWeek": 547,
     "timeMonth": 517,
     "timeYear": 562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-22": 1
+    }
   },
   {
     "name": "Open-WebUI",
     "url": "https://ai.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/ai.b0t.at.ico",
     "slug": "open-web-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -244,6 +258,7 @@
     "timeMonth": 499,
     "timeYear": 528,
     "dailyMinutesDown": {
+      "2025-11-22": 0,
       "2025-09-10": 7
     }
   }
