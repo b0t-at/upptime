@@ -164,9 +164,9 @@
     "url": "https://mail.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/mail.b0t.at.ico",
     "slug": "mail-u-web-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -438,7 +438,8 @@
       "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
-      "2026-04-25": 1113
+      "2026-04-25": 1113,
+      "2026-10-21": 0
     }
   },
   {
