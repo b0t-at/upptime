@@ -166,17 +166,17 @@
     "url": "https://mail.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/mail.b0t.at.ico",
     "slug": "mail-u-web-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "12.94%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "12.96%",
     "uptimeYear": "0.00%",
-    "time": 536,
-    "timeDay": 352,
-    "timeWeek": 437,
-    "timeMonth": 530,
-    "timeYear": 534,
+    "time": 535,
+    "timeDay": 355,
+    "timeWeek": 428,
+    "timeMonth": 522,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2025-11-09": 185,
       "2025-11-08": 1122,
@@ -440,7 +440,7 @@
       "2026-04-26": 1440,
       "2026-04-25": 1113,
       "2026-10-21": 27,
-      "2026-11-04": 0
+      "2026-11-04": 6
     }
   },
   {
