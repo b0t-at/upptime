@@ -436,21 +436,22 @@
     "url": "https://draw.b0t.at",
     "icon": "https://icons.duckduckgo.com/ip3/draw.b0t.at.ico",
     "slug": "excali-draw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 586,
-    "timeDay": 434,
-    "timeWeek": 527,
-    "timeMonth": 512,
-    "timeYear": 574,
+    "time": 585,
+    "timeDay": 362,
+    "timeWeek": 498,
+    "timeMonth": 505,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2026-01-21": 40,
       "2026-05-03": 58,
-      "2026-10-18": 1
+      "2026-10-18": 1,
+      "2026-11-23": 1
     }
   },
   {
